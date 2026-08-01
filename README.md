@@ -82,22 +82,4 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Sourith2008/Transformer-Architecture-From-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourith2008&repo=Transformer-Architecture-From-Scratch&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sourith2008/Spam-email-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourith2008&repo=Spam-email-detection&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <i>⭐️ Thanks for stopping by — feel free to reach out!</i>
-</div>
+<div align="center"> <a href="https://github.com/Sourith2008/Transformer-Architecture-From-Scratch"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourith2008&repo=Transformer-Architecture-From-Scratch&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/Sourith2008/Spam-email-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourith2008&repo=Spam-email-detection&theme=tokyonight&hide_border=true" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/> </div> <div align="center"> <i>⭐️ Thanks for stopping by — feel free to reach out!</i> </div>
