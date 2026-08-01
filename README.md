@@ -70,7 +70,6 @@
 
 <br/>
 
-
 ## 🐍 Contribution Snake (animated)
 
 <div align="center">
