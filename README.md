@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There%2C%20I%27m%20Sourith%20Dey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20-%20Data%20%26%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There%2C%20I%27m%20Sourith%20Dey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20-%20Data%20and%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;I+build+models+that+learn;Python+%2B+PyTorch+%2B+Curiosity;Let's+connect+and+collaborate!" alt="Typing SVG" />
